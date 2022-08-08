@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Githin",
+      "department": "Smartship",
+      "address": "gv street",
+      "email": "githin@gmail.com",
+      "city": "kochi",
+      "password": "g123"
+    },
+    {
+      "id": 2,
+      "name": "Tony",
+      "department": "thinkpalm",
+      "address": "stark street",
+      "email": "tony@gmail.com",
+      "city": "new york",
+      "password": "t123"
+    },
+    {
+      "id": 3,
+      "name": "Chris",
+      "department": "Palmship",
+      "address": "101 baker street",
+      "email": "chris@gmail.com",
+      "city": "Chennai",
+      "password": "c123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
